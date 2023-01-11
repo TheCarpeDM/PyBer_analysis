@@ -5,7 +5,6 @@ Omar and I have assisted V. Isualize to visualize their ride-sharing data and tr
 
 
 ## Results
-[]
 
 ### Rural Customers
 Over the course of the first four months of 2019, rural customers used the service the least overall with the least rides, drivers, and total fares. The average fare per ride and per driver were highest, likely because of the distance travelled by each customer. 
